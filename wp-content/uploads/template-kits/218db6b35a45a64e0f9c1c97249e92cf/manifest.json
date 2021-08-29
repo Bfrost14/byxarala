@@ -1,0 +1,1369 @@
+{
+    "manifest_version": "1.0.15",
+    "title": "AHENCY - Creative Digital Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Logo List",
+            "screenshot": "screenshots\/block-logo-list.jpg",
+            "source": "templates\/block-logo-list.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-logo-list\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonials",
+            "screenshot": "screenshots\/block-testimonials.jpg",
+            "source": "templates\/block-testimonials.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Quote",
+            "screenshot": "screenshots\/block-quote.jpg",
+            "source": "templates\/block-quote.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-quote\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - CTA",
+            "screenshot": "screenshots\/block-cta.jpg",
+            "source": "templates\/block-cta.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-cta\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Page Title",
+            "screenshot": "screenshots\/block-page-title.jpg",
+            "source": "templates\/block-page-title.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-page-title\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header - Alternate",
+            "screenshot": "screenshots\/header-alternate.png",
+            "source": "templates\/header-alternate.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/header-alternate\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - CTA 2",
+            "screenshot": "screenshots\/block-cta-2.jpg",
+            "source": "templates\/block-cta-2.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-cta-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio 2",
+            "screenshot": "screenshots\/single-portfolio-2.jpg",
+            "source": "templates\/single-portfolio-2.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/single-portfolio-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio 1",
+            "screenshot": "screenshots\/single-portfolio-1.jpg",
+            "source": "templates\/single-portfolio-1.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/single-portfolio-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - CTA Boxed",
+            "screenshot": "screenshots\/block-cta-boxed.jpg",
+            "source": "templates\/block-cta-boxed.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/ahency\/template-kit\/block-cta-boxed\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "1.5.12",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hero.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 17817,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "hero-bg.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/hero-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 80229,
+            "dimensions": [
+                1920,
+                984
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "couple-in-real-estate-agency-talking-to-real-estate-agent.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/couple-in-real-estate-agency-talking-to-real-estate-agent.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 464231,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ARX9FC8"
+        },
+        {
+            "filename": "pattern_dot_grey.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/pattern_dot_grey.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 105,
+            "dimensions": [
+                20,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "bg-service.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/bg-service.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 373,
+            "dimensions": [
+                1920,
+                637
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "dot-pattern.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/dot-pattern.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 169,
+            "dimensions": [
+                280,
+                165
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "mockup-painting-on-the-wall-9ZSWCU3.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/mockup-painting-on-the-wall-9ZSWCU3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 236998,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9ZSWCU3"
+        },
+        {
+            "filename": "ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 62030,
+            "dimensions": [
+                1024,
+                1535
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4kTbAMRAHtQ"
+        },
+        {
+            "filename": "mike-meyers-haAxbjiHds-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/mike-meyers-haAxbjiHds-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 94471,
+            "dimensions": [
+                1400,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-haAxbjiHds"
+        },
+        {
+            "filename": "rachit-tank-2cFZ_FB08UM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/rachit-tank-2cFZ_FB08UM-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 40851,
+            "dimensions": [
+                1400,
+                1017
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2cFZ_FB08UM"
+        },
+        {
+            "filename": "mike-dorner-sf_1ZDA1YFw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/mike-dorner-sf_1ZDA1YFw-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 24640,
+            "dimensions": [
+                1400,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/sf_1ZDA1YFw"
+        },
+        {
+            "filename": "client-pic-2.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/06\/client-pic-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 110153,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CFXP539"
+        },
+        {
+            "filename": "client-pic-1.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/06\/client-pic-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 127934,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8ZDLG9"
+        },
+        {
+            "filename": "client-pic-3.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/06\/client-pic-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 122766,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X372LQK"
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-logo-list.json",
+                    "name": "Block - Logo List"
+                }
+            ],
+            "filesize": 1471,
+            "dimensions": [
+                284,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-logo-list.json",
+                    "name": "Block - Logo List"
+                }
+            ],
+            "filesize": 1613,
+            "dimensions": [
+                264,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-logo-list.json",
+                    "name": "Block - Logo List"
+                }
+            ],
+            "filesize": 1366,
+            "dimensions": [
+                246,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-logo-list.json",
+                    "name": "Block - Logo List"
+                }
+            ],
+            "filesize": 1122,
+            "dimensions": [
+                258,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-logo-list.json",
+                    "name": "Block - Logo List"
+                }
+            ],
+            "filesize": 1322,
+            "dimensions": [
+                264,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "service-hero-bg.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/service-hero-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/block-cta.json",
+                    "name": "Block - CTA"
+                },
+                {
+                    "source": "templates\/block-page-title.json",
+                    "name": "Block - Page Title"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/block-cta-boxed.json",
+                    "name": "Block - CTA Boxed"
+                }
+            ],
+            "filesize": 46609,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "hero-2.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/hero-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 46811,
+            "dimensions": [
+                1920,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "web-noshadow.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/09\/web-noshadow.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 63070,
+            "dimensions": [
+                854,
+                670
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "phone-noshadow-1.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/09\/phone-noshadow-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 98538,
+            "dimensions": [
+                459,
+                959
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "they-have-the-right-strategy-SFNXZ9E-1.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/they-have-the-right-strategy-SFNXZ9E-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 139707,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-SFNXZ9E"
+        },
+        {
+            "filename": "man-travel-by-airplane-W6J39A2.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/09\/man-travel-by-airplane-W6J39A2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/block-cta-2.json",
+                    "name": "Block - CTA 2"
+                }
+            ],
+            "filesize": 100214,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-W6J39A2"
+        },
+        {
+            "filename": "logo@2x.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 1269,
+            "dimensions": [
+                110,
+                76
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "creative-people-sitting-at-table-in-boardroom.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/creative-people-sitting-at-table-in-boardroom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 335674,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-PLWVM5C"
+        },
+        {
+            "filename": "open-space-home-office-interior-with-desk-chair-pl-S3BDQTP.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/open-space-home-office-interior-with-desk-chair-pl-S3BDQTP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 189360,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/elements.envato.com\/image-S3BDQTP"
+        },
+        {
+            "filename": "laughing-man-with-arms-on-back-of-chair-over-gray-U4RZBL5.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/laughing-man-with-arms-on-back-of-chair-over-gray-U4RZBL5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 139987,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-U4RZBL5"
+        },
+        {
+            "filename": "happy-european-female-model-with-dark-hair-enjoyin-T76EHRX.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/happy-european-female-model-with-dark-hair-enjoyin-T76EHRX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 110055,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-T76EHRX"
+        },
+        {
+            "filename": "confident-young-man-standing-with-arms-crossed-aga-7UX3CJB.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/confident-young-man-standing-with-arms-crossed-aga-7UX3CJB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 89569,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-7UX3CJB"
+        },
+        {
+            "filename": "attractive-older-woman-laughing-against-gray-backg-MMRDCU8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/attractive-older-woman-laughing-against-gray-backg-MMRDCU8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 99484,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-MMRDCU8"
+        },
+        {
+            "filename": "casual-young-businessman-posing-with-arms-crossed-PLKAG9D.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/casual-young-businessman-posing-with-arms-crossed-PLKAG9D.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 179179,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-PLKAG9D"
+        },
+        {
+            "filename": "portrait-of-a-smiling-young-woman-PWC5VUM.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/portrait-of-a-smiling-young-woman-PWC5VUM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 132745,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "http:\/\/elements.envato.com\/image-PWC5VUM"
+        },
+        {
+            "filename": "logo-normal@2x.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/logo-normal@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header-alternate.json",
+                    "name": "Header - Alternate"
+                }
+            ],
+            "filesize": 1742,
+            "dimensions": [
+                110,
+                76
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        },
+        {
+            "filename": "portfolio-3.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/portfolio-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                }
+            ],
+            "filesize": 129659,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7EG2KU"
+        },
+        {
+            "filename": "young-business-team-planning-startup.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/young-business-team-planning-startup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 388050,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SWDNY4Z"
+        },
+        {
+            "filename": "portfolio-1.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/portfolio-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                }
+            ],
+            "filesize": 324946,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/trendy-business-card-H943AT7"
+        },
+        {
+            "filename": "portfolio-2.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/07\/portfolio-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-1.json",
+                    "name": "Single Portfolio 1"
+                }
+            ],
+            "filesize": 270327,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-interior-flyer-template-XJYFMAZ"
+        },
+        {
+            "filename": "business-district-3NUR846.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/business-district-3NUR846.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 475212,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3NUR846"
+        },
+        {
+            "filename": "hero-2-1.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/ahency\/wp-content\/uploads\/sites\/2\/2020\/08\/hero-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 88546,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/ahency\/"
+        }
+    ]
+}
